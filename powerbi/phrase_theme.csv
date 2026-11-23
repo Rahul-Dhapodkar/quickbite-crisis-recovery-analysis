@@ -1,0 +1,28 @@
+review_text,theme
+Food quality is not good,Food quality
+Food quality not great,Food quality
+Bad taste,Food quality
+Stale food served,Food quality
+Cold food,Food quality
+Average experience,Generic dissatisfaction
+Not recommended,Generic dissatisfaction
+Worst order,Generic dissatisfaction
+Never again,Generic dissatisfaction
+Horrible service,Generic dissatisfaction
+Not worth the price,Value and portion
+Portion size smaller than expected,Value and portion
+Packaging issue,Packaging
+Packaging was poor,Packaging
+Food safety issue,Food safety and hygiene
+Terrible hygiene,Food safety and hygiene
+Very late,Delivery time
+Good but can improve,Positive or mixed
+Tasty but a bit late,Positive or mixed
+Okay experience,Positive or mixed
+Could be hotter,Positive or mixed
+Satisfied overall,Positive or mixed
+Loved it!,Positive or mixed
+Super fast delivery,Positive or mixed
+Excellent service,Positive or mixed
+Great taste!,Positive or mixed
+Fresh and delicious,Positive or mixed
