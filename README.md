@@ -232,6 +232,6 @@ The Power BI file itself is not included, because it contains the project data. 
 
 ## Author
 
-[Rahul Dhapodkar] | [LinkedIn](https://www.linkedin.com/in/rahul-dhapodkar/) | [Email](rahuldhapodkar08@gmail.com)
+[Rahul Dhapodkar] | [LinkedIn](https://www.linkedin.com/in/rahul-dhapodkar/) | [Email: rahuldhapodkar08@gmail.com]
 
 The data itself is not included in this repository.
